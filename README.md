@@ -13,6 +13,6 @@
 
 <p style="padding-bottom: 15px"> Репозиторій на: </p>
 
-- [X] [GitHub]
-- [ ] [GitLab]
-- [ ] [Bitbucket]
+- [X] GitHub
+- [ ] GitLab
+- [ ] Bitbucket
