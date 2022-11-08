@@ -16,3 +16,5 @@
 - [X] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+## Виконав Бабушко Андрій.
